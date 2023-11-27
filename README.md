@@ -14,7 +14,7 @@ The data is fetched from TheMealDB API, and the application dynamically displays
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/recipe-finder.git
+[git clone https://github.com/BekBrace/recipe_app_js.git
 ```
 
 Open the index.html file in your web browser.
