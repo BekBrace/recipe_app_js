@@ -1,6 +1,12 @@
 # Recipe Finder Web App
 
-Welcome to the Recipe Finder web app repository! This application allows users to search for recipes based on the name of the dish. 
+Welcome to my Recipe Finder web app repository! 
+
+I did not want to create this -100 times created before app- with React, Vue, Django, Laravel, etc... but with only Vanilla JavaScript.
+
+You can consider it as beginner to intermediate level application that must sharpen your JavaScript skills.
+
+This application allows users to search for recipes based on the name of the dish. 
 
 The data is fetched from TheMealDB API, and the application dynamically displays recipe details, including ingredients and instructions.
 
