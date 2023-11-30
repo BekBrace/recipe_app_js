@@ -1,7 +1,6 @@
 # Recipe Finder Web App
 
 Welcome to my Recipe Finder web app repository! 
-![Unofficial_JavaScript_logo_2 svg](https://github.com/BekBrace/recipe_app_js/assets/60483846/b5128926-ea63-44a6-ad17-18e77c779ff3)
 
 I did not want to create this -100 times created before app- with React, Vue, Django, Laravel, etc... but with only Vanilla JavaScript.
 
