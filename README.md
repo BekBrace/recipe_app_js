@@ -2,7 +2,7 @@
 
 Welcome to my Recipe Finder web app repository! 
 
-I did not want to create this -100 times created before app- with React, Vue, Django, Laravel, etc... but with only Vanilla JavaScript.
+I did not want to code this application with React, Django ..etc as this was made already a 100 times before; instead with only Vanilla JavaScript.
 
 You can consider it as beginner to intermediate level application that must sharpen your JavaScript skills.
 
