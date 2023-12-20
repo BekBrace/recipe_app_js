@@ -50,7 +50,6 @@ function searchRecipe() {
         resetLayout();
       });
   }
-  
   // Ingredients 
   function formatIngredients(meal) {
     const ingredients = [];
