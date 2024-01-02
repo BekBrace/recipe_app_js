@@ -35,4 +35,4 @@ TheMealDB API - Provides the data for searching recipes.
 Contributions are welcome! If you find any issues or have improvements to suggest, feel free to open an issue or submit a pull request.
 
 # License
-This project is licensed under the MIT License. Feel free to use and modify the code as needed, but don't forget to credit my channel "Bek Brace".
+
